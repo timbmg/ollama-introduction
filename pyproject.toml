@@ -1,0 +1,11 @@
+[project]
+name = "intro-to-ollama"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyter>=1.1.1",
+    "ollama>=0.5.1",
+    "pydantic>=2.11.5",
+]
